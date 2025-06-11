@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/gustavo-alves-76270925a)
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:gusta.pessoal02@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/SeuUsuario?label=Follow&style=social)](https://github.com/SeuUsuario)
+[![GitHub](https://img.shields.io/github/followers/glimaalv?label=Follow&style=social)](https://github.com/glimaalv)
 
 ## 🚀 Sobre mim
 
@@ -40,6 +40,14 @@ Tenho interesse em desenvolvimento full stack, análise de dados, infraestrutura
 
 ---
 
+## 💼 Projeto em destaque
+
+### 🎯 [jogo-do-numero-secreto](https://github.com/glimaalv/jogo-do-numero-secreto)
+
+> Um site simples e intuitivo onde o usuário deve adivinhar o número secreto gerado aleatoriamente. Desenvolvido com um código extremamente limpo e funcional, ideal para quem está começando a explorar JavaScript no front-end.
+
+---
+
 ## 📚 Formação
 
 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
@@ -49,18 +57,17 @@ Tenho interesse em desenvolvimento full stack, análise de dados, infraestrutura
 
 ## 🌎 Idiomas
 
-- 🇧🇷 Português: Nativo
-- 🇺🇸 Inglês: Avançado (TOEIC)
-- 🇪🇸 Espanhol: Intermediário
+- 🇧🇷 Português: Nativo  
+- 🇺🇸 Inglês: Avançado (TOEIC)  
+- 🇪🇸 Espanhol: Intermediário  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=6&theme=tokyonight)
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glimaalv&layout=compact&langs_count=6&theme=tokyonight)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=glimaalv&show_icons=true&theme=tokyonight)
 
 ---
 
 ✨ *"Sigo me dedicando e dando o meu melhor a cada dia!"*
-
