@@ -1,5 +1,3 @@
-# glimaalv/README.md
-
 # Gustavo Alves
 
 `Aspiring Software Engineer`
