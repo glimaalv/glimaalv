@@ -1,12 +1,12 @@
-<h1 align="center">Aspiring Software Engineer</h1>
+<h1 align="center">Aspiring Sotware Engineer</h1>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-alves-76270925a" target="_blank">
+  <a href="www.linkedin.com/in/gustavo-alves-76270925a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:gusta.pessoal02@gmail.com" target="_blank">
+  <a href="gusta.pessoal02@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/glimaalv" target="_blank">
@@ -50,3 +50,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/glimaalv/glimaalv/output/pacman-contribution-graph.svg">
 </picture>
 
+###
