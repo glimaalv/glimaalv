@@ -51,3 +51,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/glimaalv/glimaalv/output/snake.svg" alt="Snake animation" />
+
+###
