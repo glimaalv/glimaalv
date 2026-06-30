@@ -178,20 +178,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glimaalv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glimaalv&show_icons=true&theme=purple" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glimaalv&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glimaalv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=glimaalv&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glimaalv&layout=compact&theme=purple" alt="Top Languages" />
 </div>
 
 ---
