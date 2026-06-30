@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=200&section=header&text=Gustavo%20Alves&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=300&section=header&text=Gustavo%20Alves&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
   
   <br>
   
@@ -33,13 +33,13 @@
 
 ## 👨‍💻 About Me
 
-[cite_start]I am Gustavo Alves [cite: 139][cite_start], a Software Engineer and IT Management Specialist with a strong product-centric engineering mindset[cite: 144]. Combining enterprise-level infrastructure expertise with robust application development, I build systems that scale.
+I am Gustavo Alves, a Software Engineer and IT Management Specialist with a strong product-centric engineering mindset. Combining enterprise-level infrastructure expertise with robust application development, I build systems that scale.
 
-* [cite_start]**Personal Data & Course:** Currently pursuing a degree in Systems Analysis and Development at Fatec Guarulhos[cite: 153, 154]. 
-* [cite_start]**Software Engineering:** Focused on delivering secure, performant, and maintainable backend systems using Java, Spring Boot, PHP, and C#[cite: 174, 175].
-* [cite_start]**AI/ML Expertise:** Cultivating foundational and applied knowledge in Artificial Intelligence to drive intelligent data solutions[cite: 161].
-* [cite_start]**Full Stack Development:** Crafting end-to-end MVC architectures integrated with modern frontend tooling (React, Bootstrap) and robust databases (MySQL)[cite: 165, 169, 175, 176].
-* [cite_start]**Product Engineering Mindset:** Proven track record in orchestrating API integrations (ESL, Senior, Intelipost) and managing continuous infrastructure monitoring (UniFi, Fortinet) via agile Scrum methodologies[cite: 148, 149, 150].
+* **Personal Data & Course:** Currently pursuing a degree in Systems Analysis and Development at Fatec Guarulhos. 
+* **Software Engineering:** Focused on delivering secure, performant, and maintainable backend systems using Java, Spring Boot, PHP, and C#.
+* **AI/ML Expertise:** Cultivating foundational and applied knowledge in Artificial Intelligence to drive intelligent data solutions.
+* **Full Stack Development:** Crafting end-to-end MVC architectures integrated with modern frontend tooling (React, Bootstrap) and robust databases (MySQL).
+* **Product Engineering Mindset:** Proven track record in orchestrating API integrations (ESL, Senior, Intelipost) and managing continuous infrastructure monitoring (UniFi, Fortinet) via agile Scrum methodologies.
 
 **Open To:** Full Stack Development roles, Backend Engineering, IT Infrastructure Management, and High-Impact Open Source Contributions.
 
@@ -87,9 +87,9 @@
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Applied Artificial Intelligence** | Intermediate | [cite_start]Academic foundation in Artificial Intelligence algorithms and theory[cite: 161]. |
-| **Data Structures & Logic** | Advanced | [cite_start]High-level optimization of data structures and algorithms for performant processing[cite: 161]. |
-| **Python Ecosystem** | Intermediate | [cite_start]Utilizing Python for data manipulation, scripting, and backend integrations[cite: 174]. |
+| **Applied Artificial Intelligence** | Intermediate | Academic foundation in Artificial Intelligence algorithms and theory. |
+| **Data Structures & Logic** | Advanced | High-level optimization of data structures and algorithms for performant processing. |
+| **Python Ecosystem** | Intermediate | Utilizing Python for data manipulation, scripting, and backend integrations. |
 
 ---
 
@@ -99,43 +99,43 @@
 <summary><b>Aktie - Enterprise Inventory Management</b></summary>
 <br>
   
-[cite_start]A robust, full-stack inventory monitoring system tailored for micro and small enterprises, developed as an academic capstone[cite: 163, 164]. [cite_start]Hosted in production environments[cite: 166].
+A robust, full-stack inventory monitoring system tailored for micro and small enterprises, developed as an academic capstone[cite: 163, 164]. [cite_start]Hosted in production environments.
 
 | Stack | Scale | Performance | Security | Impact |
 | :--- | :--- | :--- | :--- | :--- |
-| [cite_start]Laravel, PHP, MySQL, JavaScript [cite: 165] | SMB Tier | [cite_start]Cloudinary Asset Optimization [cite: 165] | [cite_start]Native Laravel Hash Cryptography [cite: 167] | [cite_start]Integrated with ViaCEP & SendGrid APIs [cite: 168] |
+| Laravel, PHP, MySQL, JavaScript | SMB Tier | Cloudinary Asset Optimization | Native Laravel Hash Cryptography | Integrated with ViaCEP & SendGrid APIs |
 
 **Repository:** `Private/Enterprise`
-[cite_start]**Professional Insight:** Engineered a seamless product experience by leveraging modern APIs to automate address validation and transactional emails, directly impacting end-user efficiency[cite: 168].
+**Professional Insight:** Engineered a seamless product experience by leveraging modern APIs to automate address validation and transactional emails, directly impacting end-user efficiency.
 </details>
 
 <details>
 <summary><b>FATEC Academic Secretary MVC Backend</b></summary>
 <br>
   
-[cite_start]An enterprise-grade MVC backend designed for comprehensive data manipulation and reporting within an academic secretariat[cite: 169, 170].
+An enterprise-grade MVC backend designed for comprehensive data manipulation and reporting within an academic secretariat.
 
 | Stack | Scale | Performance | Security | Impact |
 | :--- | :--- | :--- | :--- | :--- |
-| [cite_start]Java, C, C# [cite: 174] | Institutional | [cite_start]Optimized Search Filters [cite: 172] | [cite_start]Role-based CRUD Operations [cite: 172] | [cite_start]Automated PDF generation [cite: 173] |
+| Java, C, C# | Institutional | Optimized Search Filters | Role-based CRUD Operations | Automated PDF generation |
 
 **Repository:** `Available upon request`
-[cite_start]**Professional Insight:** Built an advanced filtering algorithm allowing multi-parameter queries (name, ID, class, course) and integrated an automated API for standardized PDF report generation featuring institutional branding[cite: 172, 173].
+**Professional Insight:** Built an advanced filtering algorithm allowing multi-parameter queries (name, ID, class, course) and integrated an automated API for standardized PDF report generation featuring institutional branding.
 </details>
 
 ---
 
 ## 🏢 Experience
 
-### Gestor de TI - PJ | [cite_start]Airsupply Logística e Transportes [cite: 144, 145]
-[cite_start]**Feb 2025 - Feb 2026** [cite: 146, 147]
+### Gestor de TI - PJ | Airsupply Logística e Transportes 
+**Feb 2025 - Feb 2026**
 
-[cite_start]Led IT infrastructure management and systems integration for a logistics enterprise, ensuring high availability and seamless data flow across platforms[cite: 148, 149].
+Led IT infrastructure management and systems integration for a logistics enterprise, ensuring high availability and seamless data flow across platforms.
 
-* [cite_start]Executed complex API integrations linking internal systems with enterprise transport platforms like ESL, Senior, and Intelipost[cite: 148].
-* [cite_start]Implemented continuous network infrastructure monitoring utilizing UniFi Network and Fortinet FortiGate, ensuring enterprise-grade security and uptime[cite: 149].
-* [cite_start]Championed Agile/Scrum methodologies to triage and manage a daily throughput of ~15 high-priority technical support tickets[cite: 150].
-* [cite_start]Provided deep-level technical troubleshooting and collaborative support alongside the core software development team[cite: 151].
+* Executed complex API integrations linking internal systems with enterprise transport platforms like ESL, Senior, and Intelipost.
+* Implemented continuous network infrastructure monitoring utilizing UniFi Network and Fortinet FortiGate, ensuring enterprise-grade security and uptime.
+* Championed Agile/Scrum methodologies to triage and manage a daily throughput of ~15 high-priority technical support tickets.
+* Provided deep-level technical troubleshooting and collaborative support alongside the core software development team.
 
 `System Integrations` `Network Administration` `Scrum` `Fortinet` `API Development`
 
@@ -145,9 +145,9 @@
 
 | Recognition | Details |
 | :---: | :--- |
-| 🥈 **2nd Place Programming Champion** | [cite_start]Secured 2nd place twice in general programming championships at Fatec Guarulhos[cite: 156]. |
-| 🎓 **Academic Excellence** | [cite_start]Maintained a general average of 7.71 while actively participating in programming and social initiatives[cite: 155, 157]. |
-| 🗣️ **Language Proficiency** | [cite_start]Achieved English proficiency exemptions for all semesters[cite: 158]. |
+| 🥈 **2nd Place Programming Champion** | Secured 2nd place twice in general programming championships at Fatec Guarulhos. |
+| 🎓 **Academic Excellence** | Maintained a general average of 7.71 while actively participating in programming and social initiatives. |
+| 🗣️ **Language Proficiency** | Achieved English proficiency exemptions for all semesters. |
 
 ---
 
@@ -155,8 +155,8 @@
 
 <div align="center">
 
-[cite_start]<img src="https://img.shields.io/badge/TOEIC-735%2F990-8A2BE2?style=for-the-badge&logo=google&logoColor=white" title="Test of English for International Communication [cite: 142]"/>
-[cite_start]<img src="https://img.shields.io/badge/Cisco_Networking-Packet_Tracer-4B0082?style=for-the-badge&logo=cisco&logoColor=white" title="Advanced Networking, VLANs, VPNs, Wireshark [cite: 177]"/>
+<img src="https://img.shields.io/badge/TOEIC-735%2F990-8A2BE2?style=for-the-badge&logo=google&logoColor=white" title="Test of English for International Communication [cite: 142]"/>
+<img src="https://img.shields.io/badge/Cisco_Networking-Packet_Tracer-4B0082?style=for-the-badge&logo=cisco&logoColor=white" title="Advanced Networking, VLANs, VPNs, Wireshark [cite: 177]"/>
 
 </div>
 
