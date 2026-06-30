@@ -227,3 +227,22 @@ exploring:
 open_to:
   - Software Engineering Roles
   - Architectural Design Collaborations
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+  <a href="mailto:gusta.pessoal02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/glimaalv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/glimaalv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/glimaalv"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  <i>"Engineering elegant solutions for complex architectural problems."</i>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=4B0082&height=100&section=footer" width="100%"/>
+</div>
