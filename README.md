@@ -227,6 +227,7 @@ exploring:
 open_to:
   - Software Engineering Roles
   - Architectural Design Collaborations
+```
 
 ---
 
