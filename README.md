@@ -7,4 +7,4 @@ I'm a software developer with a curiosity for learning and improving. I focus on
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,python,spring,react,git,github,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,spring,react,nodejs,git,github,mysql)](https://skillicons.dev)
