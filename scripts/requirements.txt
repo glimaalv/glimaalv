@@ -1,0 +1,6 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# usadas só localmente, ao gerar a arte a partir de uma foto (não roda no workflow diário):
+numpy
+opencv-python
+pillow
