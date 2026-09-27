@@ -20,8 +20,9 @@ jobs:
           python-version: "3.11"
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/fetch_contributions.py
-      - run: python scripts/render_heatmap_svg.py
+      - run: THEME=dark python scripts/render_heatmap_svg.py
+      - run: THEME=light python scripts/render_heatmap_svg.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          file_pattern: "data/contributions.json contrib-heatmap-dark.svg contrib-heatmap-light.svg"

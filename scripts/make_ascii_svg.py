@@ -22,11 +22,12 @@ TARGET_WIDTH_PX = 370   # combina com a largura usada no README (2 colunas na ta
 CHAR_W = TARGET_WIDTH_PX / COLS
 FONT_SIZE = CHAR_W / 0.6
 CHAR_H = FONT_SIZE * 1.0
-FILL_COLOR = "#7d8590"        # cinza neutro (funciona em tema claro e escuro)
+THEME = os.environ.get("THEME", "dark")  # "dark" ou "light"
+FILL_COLOR = "#57606a" if THEME == "light" else "#8b949e"  # ajustado por tema p/ contraste
 BG = "transparent"
 ROW_DURATION = 0.9            # segundos para cada linha "digitar"
 ROW_STAGGER = 0.045           # atraso entre o início de uma linha e a próxima
-CURSOR_COLOR = "#39d353"
+CURSOR_COLOR = "#1a7f37" if THEME == "light" else "#39d353"
 
 # rampa: claro/vazio (espaço) -> escuro/denso
 RAMP = " .`:-=+*cs#%@"
@@ -124,7 +125,8 @@ def main():
     rows = build_rows(grid)
     svg = build_svg(rows)
 
-    out_path = os.path.join(repo_root, f"{USERNAME}-ascii.svg")
+    suffix = "light" if THEME == "light" else "dark"
+    out_path = os.path.join(repo_root, f"{USERNAME}-ascii-{suffix}.svg")
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(svg)
     print(f"OK -> {out_path}")

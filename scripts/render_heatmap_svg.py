@@ -13,7 +13,13 @@ import os
 import json
 import datetime as dt
 
-PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
+THEME = os.environ.get("THEME", "dark")  # "dark" ou "light"
+if THEME == "light":
+    PALETTE = ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"]
+    LABEL_COLOR = "#57606a"
+else:
+    PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
+    LABEL_COLOR = "#8b949e"
 BOX = 13
 GAP = 3.7        # BOX+GAP calibrado para o total bater com ascii(370)+info(540) do README
 LEFT_PAD = 28   # espaço pros rótulos de dia da semana
@@ -88,14 +94,14 @@ def build_svg(data, static=False):
             continue
         y = TOP_PAD + i * (BOX + GAP) + BOX - 2
         parts.append(
-            f'<text x="0" y="{y}" font-size="9" fill="#8b949e" '
+            f'<text x="0" y="{y}" font-size="9" fill="{LABEL_COLOR}" '
             f'font-family="SFMono-Regular, Consolas, monospace">{label}</text>'
         )
 
     for week_idx, label in month_label_positions(weeks, grid_start):
         x = LEFT_PAD + week_idx * (BOX + GAP)
         parts.append(
-            f'<text x="{x}" y="12" font-size="9" fill="#8b949e" '
+            f'<text x="{x}" y="12" font-size="9" fill="{LABEL_COLOR}" '
             f'font-family="SFMono-Regular, Consolas, monospace">{label}</text>'
         )
 
@@ -135,7 +141,7 @@ def build_svg(data, static=False):
     legend_y = height - BOTTOM_PAD + 22
     legend_x = LEFT_PAD
     parts.append(
-        f'<text x="{legend_x}" y="{legend_y}" font-size="9" fill="#8b949e" '
+        f'<text x="{legend_x}" y="{legend_y}" font-size="9" fill="{LABEL_COLOR}" '
         f'font-family="SFMono-Regular, Consolas, monospace">Menos</text>'
     )
     lx = legend_x + 40
@@ -143,7 +149,7 @@ def build_svg(data, static=False):
         parts.append(f'<rect x="{lx}" y="{legend_y - 9}" width="{BOX}" height="{BOX}" rx="2" fill="{color}" />')
         lx += BOX + GAP
     parts.append(
-        f'<text x="{lx + 4}" y="{legend_y}" font-size="9" fill="#8b949e" '
+        f'<text x="{lx + 4}" y="{legend_y}" font-size="9" fill="{LABEL_COLOR}" '
         f'font-family="SFMono-Regular, Consolas, monospace">Mais</text>'
     )
 
@@ -155,7 +161,7 @@ def build_svg(data, static=False):
         f"· recorde: {longest} dia(s)"
     )
     parts.append(
-        f'<text x="{width - LEFT_PAD}" y="{legend_y}" font-size="9" fill="#8b949e" '
+        f'<text x="{width - LEFT_PAD}" y="{legend_y}" font-size="9" fill="{LABEL_COLOR}" '
         f'text-anchor="end" font-family="SFMono-Regular, Consolas, monospace">'
         f'{escape_xml(footer)}</text>'
     )
@@ -178,7 +184,8 @@ def main():
     static = os.environ.get("STATIC") == "1"
     svg = build_svg(data, static=static)
 
-    out_path = os.path.join(repo_root, "contrib-heatmap.svg")
+    suffix = "light" if THEME == "light" else "dark"
+    out_path = os.path.join(repo_root, f"contrib-heatmap-{suffix}.svg")
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(svg)
     print(f"OK -> {out_path}")

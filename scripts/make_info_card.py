@@ -37,13 +37,25 @@ BIO = (
 
 # --- Estilo -----------------------------------------------------------------
 WIDTH = 540
-KEY_COLOR = "#39d353"
-VALUE_COLOR = "#c9d1d9"
-BIO_COLOR = "#8b949e"
-TITLE_BAR_COLOR = "#161b22"
-TITLE_TEXT_COLOR = "#c9d1d9"
-BG_COLOR = "#0d1117"
-BORDER_COLOR = "#30363d"
+THEME = os.environ.get("THEME", "dark")  # "dark" ou "light"
+
+if THEME == "light":
+    KEY_COLOR = "#1a7f37"
+    VALUE_COLOR = "#24292f"
+    BIO_COLOR = "#57606a"
+    TITLE_BAR_COLOR = "#f6f8fa"
+    TITLE_TEXT_COLOR = "#24292f"
+    BG_COLOR = "#ffffff"
+    BORDER_COLOR = "#d0d7de"
+else:
+    KEY_COLOR = "#39d353"
+    VALUE_COLOR = "#c9d1d9"
+    BIO_COLOR = "#8b949e"
+    TITLE_BAR_COLOR = "#161b22"
+    TITLE_TEXT_COLOR = "#c9d1d9"
+    BG_COLOR = "#0d1117"
+    BORDER_COLOR = "#30363d"
+
 FONT = "SFMono-Regular, Consolas, Menlo, monospace"
 
 LINE_H = 24
@@ -129,7 +141,8 @@ def build_svg() -> str:
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     repo_root = os.path.dirname(base_dir)
-    out_path = os.path.join(repo_root, "info-card.svg")
+    suffix = "light" if THEME == "light" else "dark"
+    out_path = os.path.join(repo_root, f"info-card-{suffix}.svg")
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(build_svg())
     print(f"OK -> {out_path}")
