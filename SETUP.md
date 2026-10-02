@@ -48,6 +48,15 @@ O README usa a tag `<picture>` com `prefers-color-scheme`: o GitHub decide,
 com base no tema (claro/escuro) que a pessoa está usando no site, qual dos
 dois SVGs carregar — não precisa de JavaScript nem de nada externo.
 
+## Duas versões de retrato
+O repositório guarda as duas fotos e os dois conjuntos de SVG:
+- **Ativa agora**: `glimaalv-ascii-dark.svg` / `glimaalv-ascii-light.svg` (gerada a partir de `scripts/source-photo-2.png`, o avatar ilustrado).
+- **Versão anterior, guardada**: `glimaalv-ascii-v1-dark.svg` / `glimaalv-ascii-v1-light.svg` (gerada a partir de `scripts/source-photo.png`, a foto real).
+
+Pra voltar pra versão anterior, troque no `README.md` as referências de
+`glimaalv-ascii-dark.svg`/`-light.svg` para `glimaalv-ascii-v1-dark.svg`/`-v1-light.svg`
+(ou renomeie os arquivos).
+
 ## Se quiser trocar a foto ou os textos depois
 Depois de editar `scripts/make_info_card.py` (campos `FIELDS`/`BIO`) ou
 trocar a foto com `scripts/prep_photo.py`, gere as duas versões de novo:

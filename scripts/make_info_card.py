@@ -22,7 +22,7 @@ TITLE = f"{USERNAME}@github"
 FIELDS = [
     ("Cargo", "Desenvolvedor Full Stack Freelancer"),
     ("Stack", "Java, JavaScript, Node.js, Spring Boot, MySQL, Git"),
-    ("Foco atual", "Buscando minha 1a vaga como Software Engineer"),
+    ("Foco atual", "Buscando minha 1a vaga como Software Engineer / Software Developer"),
     ("Treino", "Praticando problem-solving no LeetCode"),
 ]
 
@@ -89,17 +89,37 @@ def build_svg() -> str:
     body_parts = []
     idx = 0
 
+    CHAR_W_VALUE = 7.8  # aproximação da largura de um caractere monoespaçado em font-size 13
     for key, value in FIELDS:
-        key_e, value_e = escape_xml(key), escape_xml(value)
+        key_e = escape_xml(key)
+        value_x = PAD_X + len(key_e) * 8 + 14
+        avail_px = WIDTH - PAD_X - value_x
+        max_chars = max(10, int(avail_px / CHAR_W_VALUE))
+
+        wrapped_value_lines = textwrap.wrap(value, width=max_chars) or [""]
+
+        # 1ª linha: "Chave: valor..." lado a lado
+        first_line_e = escape_xml(wrapped_value_lines[0])
         inner = (
             f'<text x="{PAD_X}" y="{y}" font-family="{FONT}" font-size="13" '
             f'font-weight="bold" fill="{KEY_COLOR}">{key_e}:</text>'
-            f'<text x="{PAD_X + len(key_e) * 8 + 14}" y="{y}" font-family="{FONT}" '
-            f'font-size="13" fill="{VALUE_COLOR}">{value_e}</text>'
+            f'<text x="{value_x}" y="{y}" font-family="{FONT}" '
+            f'font-size="13" fill="{VALUE_COLOR}">{first_line_e}</text>'
         )
         body_parts.append(animated_group(inner, idx))
         y += LINE_H
         idx += 1
+
+        # linhas extras (se o valor não coube numa linha só), alinhadas sob o valor
+        for extra in wrapped_value_lines[1:]:
+            extra_e = escape_xml(extra)
+            inner = (
+                f'<text x="{value_x}" y="{y}" font-family="{FONT}" '
+                f'font-size="13" fill="{VALUE_COLOR}">{extra_e}</text>'
+            )
+            body_parts.append(animated_group(inner, idx))
+            y += LINE_H
+            idx += 1
 
     y += 8
     sep_inner = f'<line x1="{PAD_X}" y1="{y}" x2="{WIDTH - PAD_X}" y2="{y}" stroke="{BORDER_COLOR}" />'
@@ -130,8 +150,8 @@ def build_svg() -> str:
   <circle cx="20" cy="{TITLE_H/2}" r="5" fill="#ff5f56" />
   <circle cx="38" cy="{TITLE_H/2}" r="5" fill="#ffbd2e" />
   <circle cx="56" cy="{TITLE_H/2}" r="5" fill="#27c93f" />
-  <text x="{WIDTH/2}" y="{TITLE_H/2 + 4}" text-anchor="middle" font-family="{FONT}"
-        font-size="12.5" fill="{TITLE_TEXT_COLOR}">{escape_xml(TITLE)}</text>
+  <text x="{WIDTH/2}" y="{TITLE_H/2}" text-anchor="middle" dominant-baseline="central"
+        font-family="{FONT}" font-size="12.5" fill="{TITLE_TEXT_COLOR}">{escape_xml(TITLE)}</text>
   {"".join(body_parts)}
 </svg>
 '''

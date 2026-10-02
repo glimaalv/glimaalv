@@ -312,352 +312,352 @@
     </clipPath>
   </defs>
   <g>
-    <text x="0" y="15.0" clip-path="url(#clip0)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                                                                                </text>
-    <rect x="0" y="8.291666666666666" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="15.0" clip-path="url(#clip0)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                                                                                </text>
+    <rect x="0" y="8.291666666666666" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.0s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.0s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="22.708333333333336" clip-path="url(#clip1)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                                                                                </text>
-    <rect x="0" y="16.0" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="22.708333333333336" clip-path="url(#clip1)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                                        :.                                      </text>
+    <rect x="0" y="16.0" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.045s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.045s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="30.416666666666668" clip-path="url(#clip2)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                                                                                </text>
-    <rect x="0" y="23.708333333333336" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="30.416666666666668" clip-path="url(#clip2)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                              .--=+cs+*:s#*:.                                   </text>
+    <rect x="0" y="23.708333333333336" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.09s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.09s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="38.125" clip-path="url(#clip3)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                                    .::-+c*++**+`.                              </text>
-    <rect x="0" y="31.416666666666664" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="38.125" clip-path="url(#clip3)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                           :=+c#####scsc*s%#s-..                                </text>
+    <rect x="0" y="31.416666666666664" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.135s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.135s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="45.833333333333336" clip-path="url(#clip4)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                                 -+c%@@@@@%@@@@%@@s*=                           </text>
-    <rect x="0" y="39.125" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="45.833333333333336" clip-path="url(#clip4)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                         :c#sss**ccc+***ccss%+   .. .                           </text>
+    <rect x="0" y="39.125" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.18s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.18s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="53.54166666666667" clip-path="url(#clip5)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                              `-c@@@@%**%@%@@#s*=s@@@#*-                        </text>
-    <rect x="0" y="46.833333333333336" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="53.54166666666667" clip-path="url(#clip5)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                       :c##scccc*+****++*cccss+-...:::`.                        </text>
+    <rect x="0" y="46.833333333333336" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.225s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.225s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="61.25" clip-path="url(#clip6)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                             -%%s%%%@%%%%@@%s@@@%#%@@@@@*.                      </text>
-    <rect x="0" y="54.541666666666664" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="61.25" clip-path="url(#clip6)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                     +#%#cccccsssc****++*cc*c#%%s+*=:++*.                       </text>
+    <rect x="0" y="54.541666666666664" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.27s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.27s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="68.95833333333334" clip-path="url(#clip7)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                           .*%%ss@@@@%%##@@@%%%@@@@@ss#@@#s`                    </text>
-    <rect x="0" y="62.25000000000001" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="68.95833333333334" clip-path="url(#clip7)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                    +@#c*+++*++*****++++**csssss##%%s#s#s+`                     </text>
+    <rect x="0" y="62.25000000000001" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.315s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.315s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="76.66666666666667" clip-path="url(#clip8)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                           c@@%@@%#@@#%@@@@@@%@@@@@@%%s%@@@#:                   </text>
-    <rect x="0" y="69.95833333333334" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="76.66666666666667" clip-path="url(#clip8)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                   :%s*=-::::```.`:::`:-==+*+====+**c**ccs#+                    </text>
+    <rect x="0" y="69.95833333333334" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.36s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.36s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="84.375" clip-path="url(#clip9)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                          +@@@*-:. .:::++-`=+==+-:+%@@@@@%c%%.                  </text>
-    <rect x="0" y="77.66666666666667" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="84.375" clip-path="url(#clip9)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                   c#*=-:````....`:--::`::::::--=+++=-==-+s%*                   </text>
+    <rect x="0" y="77.66666666666667" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.405s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.405s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="92.08333333333334" clip-path="url(#clip10)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                         .%@%:                     `+#@%#@#c@*                  </text>
-    <rect x="0" y="85.37500000000001" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="92.08333333333334" clip-path="url(#clip10)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                  .#c*+-`:````...`::--:------==++***+===:=cc#:                  </text>
+    <rect x="0" y="85.37500000000001" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.45s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.45s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="99.79166666666667" clip-path="url(#clip11)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                         :@%`                         +%%@@@@%.                 </text>
-    <rect x="0" y="93.08333333333334" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="99.79166666666667" clip-path="url(#clip11)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                  :s*++-:`:```...`:--::-----=++**cc**+==--+csc                  </text>
+    <rect x="0" y="93.08333333333334" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.495s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.495s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="107.5" clip-path="url(#clip12)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                         +@:-c#sc+-`                   *@@%c%@-                 </text>
-    <rect x="0" y="100.79166666666667" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="107.5" clip-path="url(#clip12)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                  :#**+-:`::``````:------:--=++***cc**+==--+cs.                 </text>
+    <rect x="0" y="100.79166666666667" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.54s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.54s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="115.20833333333334" clip-path="url(#clip13)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                      `--c#=c+*c%@@@#`    .=++****+=`  -@@@#%@`                 </text>
-    <rect x="0" y="108.50000000000001" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="115.20833333333334" clip-path="url(#clip13)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                  -#c*=-::```.....``-----:---===++***++=-:`=c#`                 </text>
+    <rect x="0" y="108.50000000000001" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.585s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.585s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="122.91666666666667" clip-path="url(#clip14)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                      -%sc=``----=+ss`    *@@@@%###ss=  c@@%@#.                 </text>
-    <rect x="0" y="116.20833333333334" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="122.91666666666667" clip-path="url(#clip14)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                  -s*+---:=+-::````::::-:---==+=+*ccccc*-`::*s`                 </text>
+    <rect x="0" y="116.20833333333334" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.63s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.63s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="130.625" clip-path="url(#clip15)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                       s=%:`***#s*= *#***c=---------=*` =@@@@+                  </text>
-    <rect x="0" y="123.91666666666667" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="130.625" clip-path="url(#clip15)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                  :c*+==+ssss####scc+==-:-==*css#%@@%%%#c-`-+c`                 </text>
+    <rect x="0" y="123.91666666666667" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.675s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.675s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="138.33333333333334" clip-path="url(#clip16)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                       =`c... :@@%:.s- .*=  -++*+=-``-##=s@@%.                  </text>
-    <rect x="0" y="131.625" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="138.33333333333334" clip-path="url(#clip16)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                  .c*+==*c++cccs#%%#sc+--=+c##%%@%%#%##s*=:-+*.                 </text>
+    <rect x="0" y="131.625" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.72s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.72s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="146.04166666666669" clip-path="url(#clip17)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                      =c+=     `-. s=   +*..:`+@@@*c` *:+*%@=                   </text>
-    <rect x="0" y="139.33333333333334" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="146.04166666666669" clip-path="url(#clip17)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                .:-cc+==-=++++*c###sc*=`:=*s#%%#scccssc*=:::++..                </text>
+    <rect x="0" y="139.33333333333334" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.765s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.765s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="153.75" clip-path="url(#clip18)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                     -#=#+--::`..`*-    `*    `cc: ..-+ %@@#**.                 </text>
-    <rect x="0" y="147.04166666666666" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="153.75" clip-path="url(#clip18)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                +*=-*+=--*s##c#@@%%#*-:..:+s%%%sc%@%##sc*=`:++*+-               </text>
+    <rect x="0" y="147.04166666666666" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.81s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.81s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="161.45833333333334" clip-path="url(#clip19)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                     s+-%..``:::-c:      -=:`.      `*.`%+..`*#.                </text>
-    <rect x="0" y="154.75" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="161.45833333333334" clip-path="url(#clip19)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                =c-:++-:`---==+ssssc=`...:-*%#s*=csss*=**-`:=:*%+               </text>
+    <rect x="0" y="154.75" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.855s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.855s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="169.16666666666669" clip-path="url(#clip20)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                     #-:#       c%:       `:--------=`  .:+sc %:                </text>
-    <rect x="0" y="162.45833333333334" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="169.16666666666669" clip-path="url(#clip20)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                :-`**+-:``.`:-+***+-``...:--*sc***css*++-:`:=+=#:               </text>
+    <rect x="0" y="162.45833333333334" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.9s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.9s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="176.875" clip-path="url(#clip21)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                     s*:s       :c@%c**c+`        .     .s@` :%.                </text>
-    <rect x="0" y="170.16666666666666" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="176.875" clip-path="url(#clip21)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                ::+*-*=:`....`::::`......:--:=**++======-:`:*%c*`               </text>
+    <rect x="0" y="170.16666666666666" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.945s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.945s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="184.58333333333334" clip-path="url(#clip22)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                     .*ss         .=+`.``.               .%:.%+                 </text>
-    <rect x="0" y="177.875" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="184.58333333333334" clip-path="url(#clip22)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                :-=-:*+:``....`:```````.`:-=--+*+==--=+=::`-+%@+                </text>
+    <rect x="0" y="177.875" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="0.99s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="0.99s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="192.29166666666669" clip-path="url(#clip23)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                       -%    :+---:.                   .   :#+                  </text>
-    <rect x="0" y="185.58333333333334" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="192.29166666666669" clip-path="url(#clip23)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                `+``-*+-:``..`::--:::`. .:--:-+sc*+=+++=---=cs*=                </text>
+    <rect x="0" y="185.58333333333334" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.035s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.035s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="200.0" clip-path="url(#clip24)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                       .%:    .`::-===++==--+-        *#++cc:                   </text>
-    <rect x="0" y="193.29166666666666" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="200.0" clip-path="url(#clip24)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                 -+::**=-::::--=++=-::`.`-=+-:`s#c****+==-=+c=+.                </text>
+    <rect x="0" y="193.29166666666666" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.08s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.08s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="207.70833333333334" clip-path="url(#clip25)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                        =%.      `-::`. .````.       +%`::`                     </text>
-    <rect x="0" y="201.0" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="207.70833333333334" clip-path="url(#clip25)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                  `--+*++=----==+=:-cs*=+cs#%#*#%#sccc*+=+=*c=:                 </text>
+    <rect x="0" y="201.0" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.125s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.125s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="215.41666666666669" clip-path="url(#clip26)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                         =#`     .+c+:.             +%.                         </text>
-    <rect x="0" y="208.70833333333334" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="215.41666666666669" clip-path="url(#clip26)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                     :*+++=----=-```:--=*s%#cs####scc*+=++=-.                   </text>
+    <rect x="0" y="208.70833333333334" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.17s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.17s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="223.12500000000003" clip-path="url(#clip27)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                      `-+c@%`                    .-c%#=-`                       </text>
-    <rect x="0" y="216.41666666666669" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="223.12500000000003" clip-path="url(#clip27)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                     .*=++=--=-::::```:=+++c**cccsc*++=====.                    </text>
+    <rect x="0" y="216.41666666666669" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.215s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.215s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="230.83333333333334" clip-path="url(#clip28)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                   `+s%@@@@@%=                .-*c+`s@@@@#c=`                   </text>
-    <rect x="0" y="224.125" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="230.83333333333334" clip-path="url(#clip28)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                      =+==---=-++-:```:==:`-==++*ss*++-==+=                     </text>
+    <rect x="0" y="224.125" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.26s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.26s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="238.54166666666669" clip-path="url(#clip29)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                 .c@@@@#s%@@*cc:.          `=cc*:  .%@@@@@@@@c.                 </text>
-    <rect x="0" y="231.83333333333334" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="238.54166666666669" clip-path="url(#clip29)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                      .+=---::+ssccccc**++cs#scc#%#s*+=-=+`                     </text>
+    <rect x="0" y="231.83333333333334" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.305s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.305s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="246.25000000000003" clip-path="url(#clip30)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                 +@%@s--#@@@+ =ssc+=--:-=*ss+:     :@%##@@@%@@c                 </text>
-    <rect x="0" y="239.54166666666669" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="246.25000000000003" clip-path="url(#clip30)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                       -*+===-+=:`:-::-+++*cc*cs###s*===+-                      </text>
+    <rect x="0" y="239.54166666666669" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.35s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.35s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="253.95833333333334" clip-path="url(#clip31)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">               .=%@@%  @@@@@+   .*@@@%%s*=`        =@%c=:+#@@@@.                </text>
-    <rect x="0" y="247.25" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="253.95833333333334" clip-path="url(#clip31)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                       :=*c***=::```:=+*****c*++*css*+=*=                       </text>
+    <rect x="0" y="247.25" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.395s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.395s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="261.6666666666667" clip-path="url(#clip32)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">             `*%@@@@@= =@@%@=     =##-.            *@@@@* -@@@@*`               </text>
-    <rect x="0" y="254.95833333333334" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="261.6666666666667" clip-path="url(#clip32)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                       -=:*sc*=----=+*cccc*cssscccc*++*=:                       </text>
+    <rect x="0" y="254.95833333333334" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.44s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.44s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="269.375" clip-path="url(#clip33)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">            +%@@%@@@@@* :%@@-      .::.            ++@@%`:%@@@@@@c.             </text>
-    <rect x="0" y="262.6666666666667" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="269.375" clip-path="url(#clip33)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                       -=`-+cc*=-:::::::-==+******++**=-:                       </text>
+    <rect x="0" y="262.6666666666667" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.485s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.485s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="277.08333333333337" clip-path="url(#clip34)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">           :@@%@@@@@@@@%=`*@#-                     -#@c.-%@@@@@%@@#.            </text>
-    <rect x="0" y="270.37500000000006" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="277.08333333333337" clip-path="url(#clip34)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                       :=::-+csc+:``.``:--======+++*c*=-:                       </text>
+    <rect x="0" y="270.37500000000006" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.53s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.53s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="284.7916666666667" clip-path="url(#clip35)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">           .*@@@@@@@@@%@@#+*@@c`                 .c@%=`c@@@@@@@@%@@:            </text>
-    <rect x="0" y="278.08333333333337" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="284.7916666666667" clip-path="url(#clip35)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                       -=```:=*csc+=--=++++ccc*+*ccsc*=-:                       </text>
+    <rect x="0" y="278.08333333333337" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.575s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.575s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="292.5" clip-path="url(#clip36)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">             -s@@@%@@@@@@@@%%@@@*.          .``-c%@*-*@@%@@@@@@@@%+             </text>
-    <rect x="0" y="285.7916666666667" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="292.5" clip-path="url(#clip36)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                       -=:```:-=+*ssssss##%%%#s**s#sc*=--                       </text>
+    <rect x="0" y="285.7916666666667" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.62s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.62s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="300.20833333333337" clip-path="url(#clip37)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">               :c%@@@@@@@@%@@@@@@%c=-=======-=*%@#cs@@@%@@%@@@@%+`              </text>
-    <rect x="0" y="293.50000000000006" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="300.20833333333337" clip-path="url(#clip37)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                     `=+-:``:`:::::-+cs#%@@%#*+=*s##s*=:=:                      </text>
+    <rect x="0" y="293.50000000000006" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.665s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.665s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="307.9166666666667" clip-path="url(#clip38)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                 `=s%@@@@@%%@@@@%@@#=....  `+#@@@%@@@%%@@@@@%s=.                </text>
-    <rect x="0" y="301.20833333333337" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="307.9166666666667" clip-path="url(#clip38)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                   .-++=-:`````:::`:-=+*cs##c+==c###c+=--++-                    </text>
+    <rect x="0" y="301.20833333333337" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.71s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.71s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="315.625" clip-path="url(#clip39)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                    `-*#@@@@@@@@%%%@@s- .-s%@@%%@@@@@@@@@#c-.                   </text>
-    <rect x="0" y="308.9166666666667" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="315.625" clip-path="url(#clip39)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                   -+:-=-:::::::::-=+++**s##s*+*###sc*=-:-+c*.                  </text>
+    <rect x="0" y="308.9166666666667" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.755s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.755s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="323.33333333333337" clip-path="url(#clip40)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                        `-+c#%@@@@@@@@@@@@@@@@@@@@%#sc+-`                       </text>
-    <rect x="0" y="316.62500000000006" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="323.33333333333337" clip-path="url(#clip40)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                   :=`-=-:::::::::-=+**c#%%#s**s##sc*++=--=+#`                  </text>
+    <rect x="0" y="316.62500000000006" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.8s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.8s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="331.0416666666667" clip-path="url(#clip41)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                             .`:-=+***cccc***+=-:`.                             </text>
-    <rect x="0" y="324.33333333333337" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="331.0416666666667" clip-path="url(#clip41)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                    -::---::---:-::-=*ccs##sc*cssssc*+++--=cs                   </text>
+    <rect x="0" y="324.33333333333337" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.845s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.845s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="338.75" clip-path="url(#clip42)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                                                                                </text>
-    <rect x="0" y="332.0416666666667" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="338.75" clip-path="url(#clip42)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                    .=::--::-=--==--=++***cccccccsccc*++==*%:                   </text>
+    <rect x="0" y="332.0416666666667" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.89s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
       <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1"
                 begin="1.89s" dur="0.9s" fill="freeze" />
     </rect>
-    <text x="0" y="346.45833333333337" clip-path="url(#clip43)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#57606a" xml:space="preserve">                                                                                </text>
-    <rect x="0" y="339.75000000000006" width="2" height="5.708333333333334" fill="#1a7f37">
+    <text x="0" y="346.45833333333337" clip-path="url(#clip43)" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="7.708333333333334" fill="#8b949e" xml:space="preserve">                     .=:::::-====+++*****cs#sc**csscc*++++#=                    </text>
+    <rect x="0" y="339.75000000000006" width="2" height="5.708333333333334" fill="#39d353">
       <animate attributeName="x" from="0" to="368.0"
                 begin="1.935s" dur="0.9s"
                 fill="freeze" calcMode="linear" />
