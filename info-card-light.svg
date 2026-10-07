@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 329"
-     width="540" height="329">
-  <rect x="0.5" y="0.5" width="539" height="328" rx="8"
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 314"
+     width="540" height="314">
+  <rect x="0.5" y="0.5" width="539" height="313" rx="8"
         fill="#ffffff" stroke="#d0d7de" />
   <rect x="0.5" y="0.5" width="539" height="34" rx="8"
         fill="#f6f8fa" />
@@ -52,42 +52,36 @@
       <animateTransform attributeName="transform" type="translate"
                           from="-14 0" to="0 0" begin="1.08s" dur="0.5s"
                           fill="freeze" additive="replace" />
-      <text x="18" y="206" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">I'm a software developer with a curiosity for learning and</text>
+      <text x="18" y="206" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">I'm a software developer with a curiosity for learning and improving. I</text>
     </g><g opacity="0" transform="translate(-14,0)">
       <animate attributeName="opacity" from="0" to="1" begin="1.26s" dur="0.5s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate"
                           from="-14 0" to="0 0" begin="1.26s" dur="0.5s"
                           fill="freeze" additive="replace" />
-      <text x="18" y="221" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">improving. I focus on writing clean, well structured and</text>
+      <text x="18" y="221" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">focus on writing clean, well structured and reusable code, I enjoy</text>
     </g><g opacity="0" transform="translate(-14,0)">
       <animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.5s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate"
                           from="-14 0" to="0 0" begin="1.44s" dur="0.5s"
                           fill="freeze" additive="replace" />
-      <text x="18" y="236" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">reusable code, I enjoy collaborating and sharing knowledge with</text>
+      <text x="18" y="236" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">collaborating and sharing knowledge with my friends. Now i'm trying to</text>
     </g><g opacity="0" transform="translate(-14,0)">
       <animate attributeName="opacity" from="0" to="1" begin="1.62s" dur="0.5s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate"
                           from="-14 0" to="0 0" begin="1.62s" dur="0.5s"
                           fill="freeze" additive="replace" />
-      <text x="18" y="251" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">my friends. Now i'm trying to earn my first job as a software</text>
+      <text x="18" y="251" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">earn my first job as a software engineer, I also enjoy devising my own</text>
     </g><g opacity="0" transform="translate(-14,0)">
       <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.5s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate"
                           from="-14 0" to="0 0" begin="1.8s" dur="0.5s"
                           fill="freeze" additive="replace" />
-      <text x="18" y="266" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">engineer, I also enjoy devising my own solutions for everyday</text>
+      <text x="18" y="266" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">solutions for everyday challenges. In addition, I am committed to</text>
     </g><g opacity="0" transform="translate(-14,0)">
       <animate attributeName="opacity" from="0" to="1" begin="1.98s" dur="0.5s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate"
                           from="-14 0" to="0 0" begin="1.98s" dur="0.5s"
                           fill="freeze" additive="replace" />
-      <text x="18" y="281" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">challenges. In addition, I am committed to enhancing my skills</text>
-    </g><g opacity="0" transform="translate(-14,0)">
-      <animate attributeName="opacity" from="0" to="1" begin="2.16s" dur="0.5s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate"
-                          from="-14 0" to="0 0" begin="2.16s" dur="0.5s"
-                          fill="freeze" additive="replace" />
-      <text x="18" y="296" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">on LeetCode to refine my problem-solving abilities.</text>
+      <text x="18" y="281" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#57606a">enhancing my skills on LeetCode to refine my problem-solving abilities.</text>
     </g>
 </svg>
